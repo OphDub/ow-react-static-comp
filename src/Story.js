@@ -1,6 +1,7 @@
 import React from 'react';
 import Button from './Button';
 import './Story.css';
+import Author from './Author';
 
 const Story = (props) => {
   return (
