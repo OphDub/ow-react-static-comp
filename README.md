@@ -1,3 +1,6 @@
+#React Static Comp
+
+Objective of this project is to learn React and utilize it to create a static composition.
 # React Starter Kit
 
 To install the dependencies:
