@@ -1,4 +1,4 @@
-#React Static Comp: Ophus Wong 1710 FE
+# React Static Comp: Ophus Wong 1710 FE
 
 Objective of this project is to learn React and utilize it to create a static composition.
 # React Starter Kit
