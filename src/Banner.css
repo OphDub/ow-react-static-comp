@@ -33,3 +33,41 @@
   display: flex;
   justify-content: flex-start;
 }
+
+@media (max-width: 935px) {
+  .Banner {
+    min-width: 90%;
+  }
+}
+
+@media (max-width: 750px) {
+  .Banner {
+    flex-direction: column-reverse;
+    margin: 0 auto 40px auto;
+  }
+
+  .banner-right {
+    width: 100%;
+    min-height: 200px;
+  }
+
+  .banner-left {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .button-holder {
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 730px) {
+  .Banner h2 {
+    font-size: 30px;
+  }
+
+  .Banner p {
+    font-size: 15px;
+  }
+}

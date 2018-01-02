@@ -24,3 +24,19 @@ h1 {
   font-weight: bolder;
   margin: 0;
 }
+
+@media (max-width: 935px) {
+  .header-sign-in {
+    display: none;
+  }
+
+  .Header {
+    flex-direction: row-reverse;
+  }
+}
+
+@media (max-width: 730px) {
+  .Header h1 {
+    font-size: 30px;
+  }
+}
