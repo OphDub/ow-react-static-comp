@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Author = () => {
+const Author = (props) => {
 return (
     <div className='story-author-info'>
       <img src={props.authImg} className='story-author-image' />
@@ -11,5 +11,5 @@ return (
     </div>
   )
 }
-// Create an Author component
+
 export default Author;
