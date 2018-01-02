@@ -10,32 +10,32 @@ const stories = [
     img: './public/story1.jpg',
     title: 'Winning at Fonts',
     desc: 'or, Why you should care about typography',
-    authImg: 'https://profilepicsbucket.crossfit.com/b8a69-P163097_3-184.jpg',
-    authName: 'Tia-Claire',
+    authImg: './public/louisa.png',
+    authName: 'Louisa',
     estTime: '2 min'
   },
   {
     img: './public/story2.jpg',
     title: 'Hoodlums: a dissertation',
     desc: 'Examining villains in modern storytelling',
-    authImg: 'https://profilepicsbucket.crossfit.com/abf2b-P124483_12-184.jpg',
-    authName: 'Josh',
+    authImg: './public/alternate.png',
+    authName: 'Nathaniel',
     estTime: '10 min'
   },
   {
     img: './public/story3.jpg',
     title: 'Halloween is a year-round sport',
     desc: 'Those who say otherwise just aren\'t trying hard enough.',
-    authImg: 'https://profilepicsbucket.crossfit.com/0e63d-P2536_14-184.jpg',
-    authName: 'Sam',
+    authImg: './public/leta.png',
+    authName: 'Leta',
     estTime: '8 min'
   },
   {
     img: './public/story4.jpg',
     title: 'How to Improve Learning and Classroom Engagement with Humor',
     desc: 'Okay, so first of all, everybody knows fart jokes are hilarious ...',
-    authImg: 'https://profilepicsbucket.crossfit.com/cfdc3-P8404_13-184.jpg',
-    authName: 'Camille',
+    authImg: './public/pamela.png',
+    authName: 'Pamela',
     estTime: '11 min'
   }
 ]
